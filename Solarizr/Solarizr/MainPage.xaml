@@ -9,21 +9,26 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <RelativePanel Background="#4E5E9F">
-        <TextBlock Text="Solarizr" FontSize="100"></TextBlock>
-        <Border Name="lnWhite" BorderThickness="10" BorderBrush="White" Margin="70" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True"></Border>
-        <Grid  RelativePanel.AlignBottomWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" RelativePanel.Below="lnWhite" >
-        
-        <Grid.RowDefinitions>
-                <RowDefinition Height="auto"/>
+        <TextBlock Margin="40,0,0,0" Name="tbTitle" Foreground="White" Text="Solarizr" FontSize="65"></TextBlock>
+        <Border Name="lnWhite" BorderThickness="4" BorderBrush="White"  RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.Below="tbTitle"></Border>
+        <Grid Margin="0,40,0,0" RelativePanel.AlignBottomWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" RelativePanel.Below="lnWhite" >
+            
+           <Grid.RowDefinitions>
                 <RowDefinition/>
                 <RowDefinition/>
                 <RowDefinition/>
             </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
-                <ColumnDefinition/>
-                <ColumnDefinition/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="*"/>
                 <ColumnDefinition/>
             </Grid.ColumnDefinitions>
+            <TextBlock VerticalAlignment="Bottom" Margin="150,0,0,0" Text="Username" FontSize="30" Foreground="White"></TextBlock>
+            <TextBlock VerticalAlignment="Center" Margin="150,0,0,0" Text="Password" FontSize="30" Foreground="White" Grid.Row="1"></TextBlock>
+            <TextBox PlaceholderText="Fernando" Margin="75,0,0,0" VerticalAlignment="Bottom" Grid.Column="1"></TextBox>
+            <TextBox PlaceholderText="Apruébame" Margin="75,0,0,0" VerticalAlignment="Center" Grid.Column="1" Grid.Row="1"></TextBox>
+            <TextBlock Grid.ColumnSpan="3" Name="tbForgot" HorizontalAlignment="Center" Text="He olvidado mi contraseña" Foreground="White" FontSize="25" Grid.Row="2"></TextBlock>
+            <Button Background="Gray" Foreground="Black" Content="Buton"  Grid.ColumnSpan="3" HorizontalAlignment="Center" Width="auto" Height="auto" MinHeight="30" MinWidth="120"  Grid.Row="2"></Button>
     </Grid>
     </RelativePanel>
 </Page>

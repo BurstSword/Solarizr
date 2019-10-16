@@ -27972,11 +27972,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2-DAM\\Interfaces\\Solarizr\\Solarizr\\Solarizr.csproj",
+      "projectUniqueName": "C:\\Users\\mespigares\\Desktop\\Solarizr\\Solarizr\\Solarizr\\Solarizr.csproj",
       "projectName": "Solarizr",
-      "projectPath": "D:\\2-DAM\\Interfaces\\Solarizr\\Solarizr\\Solarizr.csproj",
+      "projectPath": "C:\\Users\\mespigares\\Desktop\\Solarizr\\Solarizr\\Solarizr\\Solarizr.csproj",
       "packagesPath": "C:\\Users\\mespigares\\.nuget\\packages\\",
-      "outputPath": "D:\\2-DAM\\Interfaces\\Solarizr\\Solarizr\\obj\\",
+      "outputPath": "C:\\Users\\mespigares\\Desktop\\Solarizr\\Solarizr\\Solarizr\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
