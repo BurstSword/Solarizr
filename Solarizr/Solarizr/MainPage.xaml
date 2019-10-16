@@ -8,7 +8,22 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid>
-
+    <RelativePanel Background="#4E5E9F">
+        <TextBlock Text="Solarizr" FontSize="100"></TextBlock>
+        <Border Name="lnWhite" BorderThickness="10" BorderBrush="White" Margin="70" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True"></Border>
+        <Grid  RelativePanel.AlignBottomWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" RelativePanel.Below="lnWhite" >
+        
+        <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
     </Grid>
+    </RelativePanel>
 </Page>
