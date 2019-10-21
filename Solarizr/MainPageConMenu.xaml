@@ -10,18 +10,20 @@
 
     <!-- Aquí estará el menú de navegación y un frame donde se cargarán las paginas de los detalles de la cita (pagina principal de la cita, pagina de imagenes, mapa, etc) -->
     <RelativePanel>
+        
+        
 
         <!-- Este grid es el menu de navegación. Tiene dos columnas aunque es un poco innecesario, solo está por si hay que poner algo a la derecha -->
-        <Grid Background="#1c2a5c" Name="MenuNavegacion" Height="100" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" >
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition/>
-                <ColumnDefinition/>
-            </Grid.ColumnDefinitions>
-            <AppBarButton VerticalAlignment="Center" Icon="Back" Click="AppBarButton_Click"></AppBarButton>
+        <Grid Background="#1c2a5c" Height="auto" Name="MenuNavegacion" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" >
+            <AppBarButton Name="btnBack" Foreground="White" Label="Atrás" VerticalAlignment="Center" Icon="Back" Click="navegarAtras"></AppBarButton>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <TextBlock Name="txtBlox" Text="Identificado como Señor X" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Right" FontSize="20"/>
+                <AppBarButton HorizontalAlignment="Right" Name="btnSignOut" Foreground="White" Label="Cerrar Sesión" VerticalAlignment="Center" Icon="Cancel" Click="volverAlLogin"></AppBarButton>
+            </StackPanel>
         </Grid>
 
         <!-- Barra separadora del menu y el contenido del frame -->
-        <Border BorderBrush="White" BorderThickness="3" RelativePanel.Below="MenuNavegacion" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True"></Border>
+        <Border BorderBrush="White" BorderThickness="2" RelativePanel.AlignBottomWith="MenuNavegacion"  RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True"></Border>
 
         <!-- Frame: Este es el frame al que hay que hacerle navigate() en el código behind para navegar por las paginas de cada cita -->
         <Frame Name="framePagina" RelativePanel.AlignBottomWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" RelativePanel.Below="MenuNavegacion">

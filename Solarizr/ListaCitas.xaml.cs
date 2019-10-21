@@ -11,6 +11,7 @@ using Windows.UI.Xaml.Controls.Primitives;
 using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
+using Windows.UI.Xaml.Media.Animation;
 using Windows.UI.Xaml.Navigation;
 
 // La plantilla de elemento Página en blanco está documentada en https://go.microsoft.com/fwlink/?LinkId=234238
@@ -20,17 +21,21 @@ namespace Solarizr
     /// <summary>
     /// Una página vacía que se puede usar de forma independiente o a la que se puede navegar dentro de un objeto Frame.
     /// </summary>
-    public sealed partial class BlankPage1 : Page
+    public sealed partial class ListaCitas : Page
     {
-        public BlankPage1()
+        public ListaCitas()
         {
             this.InitializeComponent();
         }
 
-        //Este metodo era para probar la navegacíón, se puede borrar.
+        /// <summary>
+        /// Evento asociado al click del AppBarButton en en cada cita para navegar a una página detallada de la misma
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         public void navegarACita(object sender, RoutedEventArgs e)
         {
-            framePagina.Navigate(typeof(MainPage), null);
+            Frame.Navigate(typeof(VistaCita));
         }
     }
 }

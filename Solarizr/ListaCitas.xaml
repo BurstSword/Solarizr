@@ -1,5 +1,5 @@
 ﻿<Page
-    x:Class="Solarizr.BlankPage1"
+    x:Class="Solarizr.ListaCitas"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:Solarizr"
@@ -9,98 +9,234 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <RelativePanel>
-
         <!-- Menu de navegacion -->
-        <Grid Background="#1c2a5c" Name="MenuNavegacion" Height="100" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" >
+        <!-- <Grid Background="#1c2a5c" Name="MenuNavegacion" Height="auto" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" >
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto"/>
                 <ColumnDefinition/>
             </Grid.ColumnDefinitions>
 
-            <TextBlock Margin="0 0 10 0" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="1" Text="Identificado como Señor X" FontSize="30"></TextBlock>
+            <TextBlock Foreground="White" Margin="0 0 10 0" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="1" Text="Identificado como Señor X" FontSize="25"></TextBlock>
 
             <StackPanel Grid.Column="0" Orientation="Horizontal">
 
-                <AppBarButton Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center" Icon="Back" Content="Cerrar Sesión"></AppBarButton>
-                <AppBarButton Grid.Column="0" VerticalAlignment="Center" Icon="Add" Tag="Añadir cita"></AppBarButton>
+                <AppBarButton Foreground="White" Click="volverAtras" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center" Icon="Back" Content="Cerrar Sesión"></AppBarButton>
+                <AppBarButton Foreground="White" Grid.Column="0" VerticalAlignment="Center" Icon="Add" Tag="Añadir cita"></AppBarButton>
 
             </StackPanel>
-        </Grid>
+        </Grid> -->
 
         <!-- Barra separadora del menu y la lista -->
-        <Border BorderBrush="White" BorderThickness="3" RelativePanel.Above="framePagina" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True"></Border>
+        <Border BorderBrush="White" BorderThickness="2" RelativePanel.Above="framePagina" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True"></Border>
 
-        
+
         <!-- Frame con la lista de las citas, quizás el frame no haga falta en este caso -->
-        <Frame Name="framePagina" RelativePanel.AlignBottomWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" RelativePanel.Below="MenuNavegacion">
+        <Frame Name="framePagina" RelativePanel.AlignBottomWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignTopWithPanel="True">
 
             <!-- Lista con las citas, contiene un StackPanel para apilar cada cita -->
             <ScrollViewer>
-            <StackPanel Background="#4E5E9F">
-                
-                <!-- Aquí dentro cada Grid es una cita -->
-                <Grid Height="100">
-                    <Grid.ColumnDefinitions>
-                        <ColumnDefinition/>
-                        <ColumnDefinition/>
-                        <ColumnDefinition Width="Auto"/>
-                    </Grid.ColumnDefinitions>
 
-                    <TextBlock Margin="10 0 0 0" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="0" Text="10:00 AM" FontSize="40"></TextBlock>
-                    <TextBlock Margin="0 0 19 0" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="1" Text="21 de Octubre 2019" FontSize="40"></TextBlock>
-                    <AppBarButton Click="navegarACita" Icon="Forward" VerticalAlignment="Center" Grid.Column="2"></AppBarButton>
-                </Grid>
+                <UserControl>
+                    <StackPanel Background="#4E5E9F">
+
+                    <VisualStateManager.VisualStateGroups>
+                        <VisualStateGroup x:Name="VisualStateGroup">
+                            <VisualState x:Name="phone">
+                                <VisualState.StateTriggers>
+                                    <AdaptiveTrigger MinWindowWidth="0"/>
+                                </VisualState.StateTriggers>
+                                <VisualState.Setters>
+                                    <Setter Target="fecha1.(Text)" Value="21/10/19 10:00"/>
+                                    <Setter Target="fecha1.(FontSize)" Value="20" />
+
+                                    <Setter Target="fecha2.(Text)" Value="28/10/19 11:20"/>
+                                    <Setter Target="fecha2.(FontSize)" Value="20" />
+
+                                    <Setter Target="fecha3.(Text)" Value="2/11/19 17:30"/>
+                                    <Setter Target="fecha3.(FontSize)" Value="20" />
+
+                                    <Setter Target="fecha4.(Text)" Value="8/11/19 11:00"/>
+                                    <Setter Target="fecha4.(FontSize)" Value="20" />
+
+                                    <Setter Target="fecha5.(Text)" Value="9/11/19 18:30"/>
+                                    <Setter Target="fecha5.(FontSize)" Value="20" />
+
+                                    <Setter Target="fecha6.(Text)" Value="15/11/19 11:00"/>
+                                    <Setter Target="fecha6.(FontSize)" Value="20" />
+
+                                    <Setter Target="fecha7.(Text)" Value="27/10/19 9:30"/>
+                                    <Setter Target="fecha7.(FontSize)" Value="20" />
+
+                                    <Setter Target="fecha8.(Text)" Value="10/12/19 17:45"/>
+                                    <Setter Target="fecha8.(FontSize)" Value="20" />
+
+                                    <Setter Target="fecha9.(Text)" Value="12/12/19 11:00"/>
+                                    <Setter Target="fecha9.(FontSize)" Value="20" />
+
+                                    <Setter Target="fecha10.(Text)" Value="18/12/19 16:00"/>
+                                    <Setter Target="fecha10.(FontSize)" Value="20" />
+                                    </VisualState.Setters>
+                            </VisualState>
+                            <VisualState x:Name="tablet">
+                                <VisualState.StateTriggers>
+                                    <AdaptiveTrigger MinWindowWidth="750"/>
+                                </VisualState.StateTriggers>
+                                    <VisualState.Setters>
+                                    </VisualState.Setters>
+                            </VisualState>
+                        </VisualStateGroup>
+                    </VisualStateManager.VisualStateGroups>
+
+                        <!-- Aquí dentro cada Grid es una cita -->
+                        <Grid Height="100">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+
+                            <TextBlock Foreground="White" Margin="10 0 0 0" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="0" Text="Pijus Magnificus" FontSize="30"></TextBlock>
+                            <TextBlock Name="fecha1" Foreground="White" Margin="0 0 19 0" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="1" FontSize="30" Text="21 de Octubre 2019 10:00 AM"></TextBlock>
+                            <AppBarButton Label="Detalles" Foreground="White" Click="navegarACita" Icon="Forward" VerticalAlignment="Center" Grid.Column="2"></AppBarButton>
+                        </Grid>
 
 
-                    <!-- Aquí dentro cada Border es una barra separadora -->
-                <Border BorderBrush="White" BorderThickness="1" />
+                        <!-- Aquí dentro cada Border es una barra separadora -->
+                    <Border BorderBrush="White" BorderThickness="1" Margin="10, 0 , 10 , 0" />
 
-                <Grid Height="100">
-                    <Grid.ColumnDefinitions>
-                        <ColumnDefinition/>
-                        <ColumnDefinition/>
-                        <ColumnDefinition Width="Auto"/>
-                    </Grid.ColumnDefinitions>
+                    <Grid Height="100">
 
-                    <TextBlock Margin="10 0 0 0" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="0" Text="10:00 AM" FontSize="40"></TextBlock>
-                    <TextBlock Margin="0 0 19 0" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="1" Text="21 de Octubre 2019" FontSize="40"></TextBlock>
-                    <AppBarButton Icon="Forward" VerticalAlignment="Center" Grid.Column="2"></AppBarButton>
-                </Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
 
-                <Border BorderBrush="White" BorderThickness="1" />
+                        <TextBlock Foreground="White" Margin="10 0 0 0" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="0" Text="Antonio García" FontSize="30"></TextBlock>
+                        <TextBlock Name="fecha2" Foreground="White" Margin="0 0 19 0" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="1" Text="28 de Octubre 2019 11:20 AM" FontSize="30"></TextBlock>
+                        <AppBarButton Label="Detalles" Foreground="White" Icon="Forward" VerticalAlignment="Center" Grid.Column="2"></AppBarButton>
+                    </Grid>
 
-                <Grid Height="100">
-                    <Grid.ColumnDefinitions>
-                        <ColumnDefinition/>
-                        <ColumnDefinition/>
-                        <ColumnDefinition Width="Auto"/>
-                    </Grid.ColumnDefinitions>
+                    <Border BorderBrush="White" BorderThickness="1" Margin="10, 0 , 10 , 0" />
 
-                    <TextBlock Margin="10 0 0 0" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="0" Text="10:00 AM" FontSize="40"></TextBlock>
-                    <TextBlock Margin="0 0 19 0" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="1" Text="21 de Octubre 2019" FontSize="40"></TextBlock>
-                    <AppBarButton Icon="Forward" VerticalAlignment="Center" Grid.Column="2"></AppBarButton>
-                </Grid>
+                    <Grid Height="100">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
 
-                <Border BorderBrush="White" BorderThickness="1" />
+                        <TextBlock Foreground="White" Margin="10 0 0 0" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="0" Text="María Ramírez" FontSize="30"></TextBlock>
+                        <TextBlock Name="fecha3" Foreground="White" Margin="0 0 19 0" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="1" Text="2 de Noviembre 2019 5:30 PM" FontSize="30"></TextBlock>
+                        <AppBarButton Label="Detalles" Foreground="White" Icon="Forward" VerticalAlignment="Center" Grid.Column="2"></AppBarButton>
+                    </Grid>
 
-                <Grid Height="100">
-                    <Grid.ColumnDefinitions>
-                        <ColumnDefinition/>
-                        <ColumnDefinition/>
-                        <ColumnDefinition Width="Auto"/>
-                    </Grid.ColumnDefinitions>
+                    <Border BorderBrush="White" BorderThickness="1" Margin="10, 0 , 10 , 0" />
 
-                    <TextBlock Margin="10 0 0 0" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="0" Text="10:00 AM" FontSize="40"></TextBlock>
-                    <TextBlock Margin="0 0 19 0" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="1" Text="21 de Octubre 2019" FontSize="40"></TextBlock>
-                    <AppBarButton Icon="Forward" VerticalAlignment="Center" Grid.Column="2"></AppBarButton>
-                </Grid>
+                    <Grid Height="100">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
 
-                    <Border BorderBrush="White" BorderThickness="1" />
+                        <TextBlock Foreground="White" Margin="10 0 0 0" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="0" Text="Jesús González" FontSize="30"></TextBlock>
+                        <TextBlock Name="fecha4" Foreground="White" Margin="0 0 19 0" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="1" Text="8 de Noviembre 2019 11:00 AM" FontSize="30"></TextBlock>
+                        <AppBarButton Label="Detalles" Foreground="White" Icon="Forward" VerticalAlignment="Center" Grid.Column="2"></AppBarButton>
+                    </Grid>
+
+                    <Border BorderBrush="White" BorderThickness="1" Margin="10, 0 , 10 , 0" />
+
+                    <Grid Height="100">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Foreground="White" Margin="10 0 0 0" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="0" Text="Rodrigo Roca" FontSize="30"></TextBlock>
+                        <TextBlock Name="fecha5" Foreground="White" Margin="0 0 19 0" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="1" Text="9 de Noviembre 2019 6:30 PM" FontSize="30"></TextBlock>
+                        <AppBarButton Label="Detalles" Foreground="White" Icon="Forward" VerticalAlignment="Center" Grid.Column="2"></AppBarButton>
+                    </Grid>
+
+                    <Border BorderBrush="White" BorderThickness="1" Margin="10, 0 , 10 , 0" />
+
+                    <Grid Height="100">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Foreground="White" Margin="10 0 0 0" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="0" Text="Laura Gómez" FontSize="30"></TextBlock>
+                        <TextBlock Name="fecha6" Foreground="White" Margin="0 0 19 0" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="1" Text="15 de Noviembre 2019 11:00 AM" FontSize="30"></TextBlock>
+                        <AppBarButton Label="Detalles" Foreground="White" Icon="Forward" VerticalAlignment="Center" Grid.Column="2"></AppBarButton>
+                    </Grid>
+
+                    <Border BorderBrush="White" BorderThickness="1" Margin="10, 0 , 10 , 0" />
+
+                    <Grid Height="100">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Foreground="White" Margin="10 0 0 0" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="0" Text="Alejandra Álvarez" FontSize="30"></TextBlock>
+                        <TextBlock Name="fecha7" Foreground="White" Margin="0 0 19 0" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="1" Text="27 de Noviembre 2019 9:30 AM" FontSize="30"></TextBlock>
+                        <AppBarButton Label="Detalles" Foreground="White" Icon="Forward" VerticalAlignment="Center" Grid.Column="2"></AppBarButton>
+                    </Grid>
+
+                    <Border BorderBrush="White" BorderThickness="1" Margin="10, 0 , 10 , 0" />
+
+                    <Grid Height="100">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Foreground="White" Margin="10 0 0 0" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="0" Text="Ainhoa Morales" FontSize="30"></TextBlock>
+                        <TextBlock Name="fecha8" Foreground="White" Margin="0 0 19 0" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="1" Text="10 de Diciembre 2019 5:45 PM" FontSize="30"></TextBlock>
+                        <AppBarButton Label="Detalles" Foreground="White" Icon="Forward" VerticalAlignment="Center" Grid.Column="2"></AppBarButton>
+                    </Grid>
+
+                    <Border BorderBrush="White" BorderThickness="1" Margin="10, 0 , 10 , 0" />
+
+                    <Grid Height="100">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Foreground="White" Margin="10 0 0 0" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="0" Text="Isaac Ferrer" FontSize="30"></TextBlock>
+                        <TextBlock Name="fecha9" Foreground="White" Margin="0 0 19 0" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="1" Text="12 de Diciembre 2019 11:00 AM" FontSize="30"></TextBlock>
+                        <AppBarButton Label="Detalles" Foreground="White" Icon="Forward" VerticalAlignment="Center" Grid.Column="2"></AppBarButton>
+                    </Grid>
+
+                    <Border BorderBrush="White" BorderThickness="1" Margin="10, 0 , 10 , 0" />
+
+                    <Grid Height="100">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Foreground="White" Margin="10 0 0 0" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="0" Text="Rafael Iglesias" FontSize="30"></TextBlock>
+                        <TextBlock Name="fecha10" Foreground="White" Margin="0 0 19 0" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="1" Text="18 de Diciembre 2019 4:00 PM" FontSize="30"></TextBlock>
+                        <AppBarButton Label="Detalles" Foreground="White" Icon="Forward" VerticalAlignment="Center" Grid.Column="2"></AppBarButton>
+                    </Grid>
+
+                    <!--<Border BorderBrush="White" BorderThickness="1" />-->
 
                 </StackPanel>
-                
-        </ScrollViewer>
-        
+
+                </UserControl>
+
+            </ScrollViewer>
+
         </Frame>
 
     </RelativePanel>

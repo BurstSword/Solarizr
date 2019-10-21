@@ -25,13 +25,33 @@ namespace Solarizr
         public MainPageConMenu()
         {
             this.InitializeComponent();
-
+            framePagina.Navigate(typeof(ListaCitas), null); //BlankPage1 es la pagina ListaCitas
         }
 
-        //Método para probar la navegación, se puede borrar.
-        private void AppBarButton_Click(object sender, RoutedEventArgs e)
+        /// <summary>
+        /// Evento asociado al click del AppBarButton para volver atrás
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void navegarAtras(object sender, RoutedEventArgs e)
         {
-            framePagina.Navigate(typeof(MainPage), null);
+            if(framePagina.CanGoBack)
+            {
+                framePagina.GoBack();
+            }
+            
+            
+            //Frame.Navigate(typeof(BlankPage1), null);
+            //framePagina.Content = null;
+        }
+        /// <summary>
+        /// Evento asociado al click del AppBarButton de Cerrar Sesión
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void volverAlLogin(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(MainPage));
         }
     }
 }

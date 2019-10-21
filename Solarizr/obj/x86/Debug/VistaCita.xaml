@@ -1,0 +1,91 @@
+﻿<Page
+    x:Class="Solarizr.VistaCita"
+    xmlns:maps="using:Windows.UI.Xaml.Controls.Maps"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Solarizr"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <ScrollViewer>
+        <UserControl>
+        <RelativePanel x:ConnectionId='2' Name="Panel" Background="#4E5E9F">
+        <!--<Border Name="lnWhite" BorderThickness="4" BorderBrush="White"  RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignTopWithPanel="True"></Border>-->
+        <TextBlock x:ConnectionId='3' Margin="30, 30, 0, 0" Name="clientName" RelativePanel.AlignTopWithPanel="True"  Text="Nombre: Pijus" FontSize="30" Foreground="White"></TextBlock>
+        <TextBlock x:ConnectionId='4' Margin="30, 0, 0, 0" Name="clientSurname" RelativePanel.Below="clientName"  Text="Apellidos: Magnificus" FontSize="30" Foreground="White"></TextBlock>
+        <TextBlock x:ConnectionId='5' Margin="30, 20, 0, 30" Name="clientNumber"  RelativePanel.Below="clientSurname" Width="auto" Text="Tlfn: 914259874" FontSize="30" Foreground="White"></TextBlock>
+        <AppBarButton x:ConnectionId='6' Margin="0, 20, 0, 30" Label="Llamar" RelativePanel.AlignTopWith="clientNumber" Name="phoneButton" Foreground="White" Icon="Phone" RelativePanel.RightOf="clientNumber" />
+
+        <TextBlock x:ConnectionId='7' FontSize="30" Foreground="White"  Margin="0, 30, 20, 0" RelativePanel.AlignTopWithPanel="True" Name="Date" RelativePanel.AlignRightWithPanel="True" Text="10:00 AM" />
+
+        <TextBlock x:ConnectionId='8' FontSize="20" Foreground="White" RelativePanel.Above="Map" Margin="40, 0, 0, 20" RelativePanel.AlignLeftWith="Map" Name="clientAddress" RelativePanel.AlignRightWithPanel="True" Text="Calle invent S/n     41080" />
+
+        <StackPanel x:ConnectionId='9' CornerRadius="4" Name="stkImage" RelativePanel.Below="clientNumber"  Background="White" Width="auto" MinWidth="400" MaxWidth="600" Margin="40, 30, 40, 40">
+            <!--<TextBlock Text="1280x720" Foreground="Black" FontSize="20" Margin="10" />
+            <TextBlock Text="1280x1024" Foreground="Black" FontSize="20" Margin="10"/>
+            <TextBlock Text="Fernando apruébanos" Foreground="Black" FontSize="20" Margin="10"/>-->
+            <RichEditBox Background="#2f385f" PlaceholderText="Escribe aquí las anotaciones" Foreground="White" Height="165" FontSize="20" />
+            <AppBarButton x:ConnectionId='12'                      Foreground="Black" Icon="Attach" RelativePanel.AlignBottomWith="stkImage" RelativePanel.AlignRightWith="stkImage"  HorizontalAlignment="Right" VerticalAlignment="Bottom" RenderTransformOrigin="0.5,0.5">
+                <AppBarButton.RenderTransform>
+                    <CompositeTransform Rotation="-35"/>
+                </AppBarButton.RenderTransform>
+                <!--<AppBarButton.Resources>
+                    <ResourceDictionary>
+                        <ResourceDictionary.ThemeDictionaries>
+                            <ResourceDictionary x:Key="Dark">
+                                <SolidColorBrush x:Key="ButtonForegroundPointerOver" Color="DarkGray" />
+                            </ResourceDictionary>
+                            <ResourceDictionary x:Key="Light">
+                                <SolidColorBrush x:Key="ButtonForegroundPointerOver" Color="DarkGray" />
+                            </ResourceDictionary>
+                        </ResourceDictionary.ThemeDictionaries>
+                    </ResourceDictionary>
+                </AppBarButton.Resources>-->
+            </AppBarButton>
+        </StackPanel>
+
+        <!--MapServiceToken="mapuri"-->
+
+        <Border x:ConnectionId='10' CornerRadius="4" Height="auto" BorderBrush="White" BorderThickness="2" x:Name="Map" MinHeight="250" MaxHeight="300" Margin="30, 0, 30, 20">
+            <maps:MapControl MapServiceToken="Dk1T0B01M5ivRzCjkm6R~ZOebkfswlAPmqTEOmPWvdQ~ApVzFI02kEPJFseiUUcS3ij3F8oRW9p-ALvbIPaegHwEgK95_mAzVP4T0IESza2f" />
+        </Border>
+
+        <Button x:ConnectionId='11'                       Name="btnMapa" Background="white" Foreground="#4E5E9F" RelativePanel.AlignLeftWith="Map" RelativePanel.Below="Map"  RelativePanel.AlignRightWith="Map" Width="auto" Height="auto" Content="Calcular ruta" MinWidth="200" MaxWidth="400" MinHeight="25" MaxHeight="50" HorizontalAlignment="Center"/>
+
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup x:ConnectionId='13' x:Name="VisualStateMap">
+                <VisualState x:ConnectionId='14' x:Name="phone">
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="0"/>
+                    </VisualState.StateTriggers>
+                        <VisualState.Setters>
+                            <Setter Target="stkImage.(RelativePanel.AlignRightWithPanel)" Value="True" />
+                            <Setter Target="stkImage.(RelativePanel.AlignLeftWithPanel)" Value="True" />
+                            <Setter Target="Map.(RelativePanel.Below)" Value="stkImage"/>
+                            <Setter Target="Map.(RelativePanel.AlignRightWith)" Value="stkImage"/>
+                            <Setter Target="Map.(RelativePanel.AlignLeftWith)" Value="stkImage"/>
+                            <Setter Target="Map.Margin" Value="40,10,40,0" />
+                            <Setter Target="clientAddress.Margin" Value="40, 0, 0, 0" />
+                            <Setter Target="clientAddress.(RelativePanel.Above)" Value="Map"/>
+                            <Setter Target="btnMapa.Margin" Value="20"/>
+                            </VisualState.Setters>
+                </VisualState>
+                    <VisualState x:ConnectionId='15' x:Name="tablet">
+                        <VisualState.StateTriggers>
+                            <AdaptiveTrigger MinWindowWidth="850"/>
+                        </VisualState.StateTriggers>
+                        <VisualState.Setters>
+                            <Setter Target="Map.(RelativePanel.RightOf)" Value="stkImage"/>
+                            <Setter Target="Map.(RelativePanel.AlignTopWith)" Value="stkImage" />
+                            <Setter Target="Map.(RelativePanel.AlignRightWithPanel)" Value="True" />
+                            </VisualState.Setters>
+                    </VisualState>
+                </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+
+    </RelativePanel>
+    </UserControl>
+    </ScrollViewer>
+</Page>
+

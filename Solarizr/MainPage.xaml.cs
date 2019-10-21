@@ -28,10 +28,14 @@ namespace Solarizr
         }
 
 
-        //Este método era para probar la navegación, habrá que usarlo, pero el código de dentro se tendrá que cambiar.
-        private void Button_Click(object sender, RoutedEventArgs e)
+        /// <summary>
+        /// Evento asociado al click del botón de inicio de sesión.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void navegarAListaCitas(object sender, RoutedEventArgs e)
         {
-            this.Frame.Navigate(typeof(BlankPage1), null);
+            this.Frame.Navigate(typeof(MainPageConMenu), null);
         }
     }
 }

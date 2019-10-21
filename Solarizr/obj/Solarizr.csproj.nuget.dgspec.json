@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moren\\Desktop\\Solarizr\\Solarizr\\Solarizr\\Solarizr.csproj": {}
+    "E:\\drive\\DAM\\Segundo\\GitHub\\Desarrollo-de-Interfaces\\proyectos\\Solarizr\\Solarizr\\Solarizr.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moren\\Desktop\\Solarizr\\Solarizr\\Solarizr\\Solarizr.csproj": {
+    "E:\\drive\\DAM\\Segundo\\GitHub\\Desarrollo-de-Interfaces\\proyectos\\Solarizr\\Solarizr\\Solarizr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moren\\Desktop\\Solarizr\\Solarizr\\Solarizr\\Solarizr.csproj",
+        "projectUniqueName": "E:\\drive\\DAM\\Segundo\\GitHub\\Desarrollo-de-Interfaces\\proyectos\\Solarizr\\Solarizr\\Solarizr.csproj",
         "projectName": "Solarizr",
-        "projectPath": "C:\\Users\\moren\\Desktop\\Solarizr\\Solarizr\\Solarizr\\Solarizr.csproj",
+        "projectPath": "E:\\drive\\DAM\\Segundo\\GitHub\\Desarrollo-de-Interfaces\\proyectos\\Solarizr\\Solarizr\\Solarizr.csproj",
         "packagesPath": "C:\\Users\\moren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moren\\Desktop\\Solarizr\\Solarizr\\Solarizr\\obj\\",
+        "outputPath": "E:\\drive\\DAM\\Segundo\\GitHub\\Desarrollo-de-Interfaces\\proyectos\\Solarizr\\Solarizr\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -37,6 +37,10 @@
       "frameworks": {
         "uap10.0.15063": {
           "dependencies": {
+            "GMapsUWPSDK": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",
               "version": "[6.2.8, )"

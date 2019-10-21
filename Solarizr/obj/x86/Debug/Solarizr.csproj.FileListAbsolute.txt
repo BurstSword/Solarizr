@@ -450,3 +450,1284 @@ C:\Users\moren\Desktop\Solarizr\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.
 C:\Users\moren\Desktop\Solarizr\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.g.cs
 C:\Users\moren\Desktop\Solarizr\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.xaml
 C:\Users\moren\Desktop\Solarizr\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.xbf
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csprojAssemblyReference.cache
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\App.g.i.cs
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\App.g.cs
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.g.i.cs
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.g.cs
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\MainPage.g.i.cs
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\MainPage.g.cs
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.g.i.cs
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.g.cs
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\VistaCita.g.i.cs
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\VistaCita.g.cs
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\App.xaml
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xaml
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\MainPage.xaml
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.xaml
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\VistaCita.xaml
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\App.xbf
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xbf
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\MainPage.xbf
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.xbf
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\VistaCita.xbf
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\Solarizr.exe
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\Solarizr.pdb
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\App.xbf
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\VistaCita.xbf
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\ListaCitas.xbf
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\MainPage.xbf
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\MainPageConMenu.xbf
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\Solarizr.xr.xml
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\Solarizr.exe
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\Solarizr.pdb
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\resources.pri
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\AppxManifest.xml
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\Core\AppxManifest.xml
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\Core\Solarizr.exe
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\Solarizr.build.appxrecipe
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\GMapsUWP.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\Microsoft.CSharp.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Core.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Net.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Numerics.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Web.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Windows.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Xml.Linq.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Xml.Serialization.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Xml.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\Microsoft.VisualBasic.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\Newtonsoft.Json.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Collections.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Globalization.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.IO.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Handles.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Text.Encoding.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Timer.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.IO.FileSystem.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Net.Primitives.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Net.Sockets.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\clrjit.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\clrcompression.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Private.Uri.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.AppContext.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Buffers.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Collections.Immutable.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Collections.Specialized.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.Annotations.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.Primitives.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Data.Common.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.IO.Compression.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Linq.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Linq.Expressions.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Linq.Parallel.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Linq.Queryable.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Net.Http.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Net.Http.Rtc.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Net.NameResolution.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Net.Requests.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Net.WebSockets.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Net.WebSockets.Client.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.ObjectModel.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Private.DataContractSerialization.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Private.ServiceModel.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Context.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Emit.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Metadata.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Security.Claims.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Security.Principal.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Http.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Primitives.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Security.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Threading.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Xml.XDocument.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csproj.CopyComplete
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\ResourceHandlingTask.state
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.Primitives.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.TypeConverter.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Serialization.Formatters.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csproj.GenerateResource.Cache
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\priconfig.xml
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\priconfig.xml.intermediate
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\filtered.layout.resfiles
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\excluded.layout.resfiles
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\resources.resfiles
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\resources.resfiles.intermediate
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\pri.resfiles
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\pri.resfiles.intermediate
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\qualifiers.txt
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\resources.en-us.resfiles
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\resources.en-us.resfiles.intermediate
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\ProjectArchitectures.txt
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758480200000000.json
+D:\Visual Studio\Proyectos Desarrollo de interfaces\04-BotonesEnTiempoEjecucion-UWP\Solarizr\Solarizr\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758516200000000.json
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\App.g.i.cs
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\App.g.cs
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\VistaCita.g.i.cs
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\VistaCita.g.cs
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.g.i.cs
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.g.cs
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\MainPage.g.cs
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.g.i.cs
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.g.cs
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\App.xaml
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\VistaCita.xaml
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xaml
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\MainPage.xaml
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.xaml
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\App.xbf
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\VistaCita.xbf
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xbf
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\MainPage.xbf
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.xbf
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\App.xbf
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\VistaCita.xbf
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\ListaCitas.xbf
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\MainPage.xbf
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\MainPageConMenu.xbf
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\Solarizr.xr.xml
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\Solarizr.exe
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\Solarizr.pdb
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\resources.pri
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\AppxManifest.xml
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\Core\Solarizr.exe
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\Solarizr.build.appxrecipe
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\GMapsUWP.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Core.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Net.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Numerics.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Windows.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Xml.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Collections.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Globalization.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.IO.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\clrjit.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\clrcompression.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.AppContext.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Buffers.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.Primitives.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Data.Common.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Linq.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Net.Http.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Threading.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csproj.CopyComplete
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\Solarizr.exe
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\Solarizr.pdb
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.Primitives.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.TypeConverter.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Serialization.Formatters.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csproj.GenerateResource.Cache
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\priconfig.xml
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\resources.resfiles
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\pri.resfiles
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\qualifiers.txt
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\resources.en-us.resfiles
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\resources.en-us.resfiles.intermediate
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758480200000000.json
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758516200000000.json
+C:\Users\moren\Desktop\SOLARIZRR\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csprojAssemblyReference.cache
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\App.xbf
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\ListaCitas.xbf
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\MainPage.xbf
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\MainPageConMenu.xbf
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Mapa.xbf
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\VistaCita.xbf
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Solarizr.xr.xml
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Solarizr.exe
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Solarizr.pdb
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\resources.pri
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\AppxManifest.xml
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Core\AppxManifest.xml
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Core\Solarizr.exe
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Solarizr.build.appxrecipe
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\GMapsUWP.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Microsoft.CSharp.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Core.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Numerics.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Web.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Windows.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Xml.Linq.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Xml.Serialization.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Xml.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Microsoft.VisualBasic.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Newtonsoft.Json.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Collections.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Tools.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Tracing.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Globalization.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Globalization.Calendars.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.IO.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Extensions.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Primitives.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Resources.ResourceManager.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Handles.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.InteropServices.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Text.Encoding.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Timer.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Debug.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.IO.FileSystem.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.Primitives.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.Sockets.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Extensions.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\clrjit.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\clrcompression.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Private.Uri.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.AppContext.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Buffers.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Collections.Concurrent.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Collections.Immutable.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Collections.NonGeneric.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Collections.Specialized.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.Annotations.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.Primitives.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Data.Common.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Contracts.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Dynamic.Runtime.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Globalization.Extensions.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.IO.Compression.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.IO.IsolatedStorage.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Linq.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Linq.Expressions.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Linq.Parallel.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Linq.Queryable.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.Http.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.Http.Rtc.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.NameResolution.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.NetworkInformation.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.Requests.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.WebSockets.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.WebSockets.Client.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Numerics.Vectors.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ObjectModel.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Private.DataContractSerialization.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Private.ServiceModel.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Context.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Emit.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Metadata.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Numerics.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Security.Claims.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Security.Principal.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Http.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Primitives.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Security.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Text.RegularExpressions.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Threading.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Overlapped.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Xml.ReaderWriter.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Xml.XDocument.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Xml.XmlDocument.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Xml.XmlSerializer.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csprojAssemblyReference.cache
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\App.g.i.cs
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\App.g.cs
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.g.i.cs
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.g.cs
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MainPage.g.i.cs
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MainPage.g.cs
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.g.i.cs
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.g.cs
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Mapa.g.i.cs
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Mapa.g.cs
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\VistaCita.g.i.cs
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\VistaCita.g.cs
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\App.xaml
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xaml
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MainPage.xaml
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.xaml
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Mapa.xaml
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\VistaCita.xaml
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\App.xbf
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xbf
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MainPage.xbf
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.xbf
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Mapa.xbf
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\VistaCita.xbf
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\XamlSaveStateFile.xml
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csproj.CoreCompileInputs.cache
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csproj.CopyComplete
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Solarizr.exe
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Solarizr.pdb
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\ResourceHandlingTask.state
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.Primitives.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.TypeConverter.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Serialization.Formatters.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csproj.GenerateResource.Cache
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\priconfig.xml
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\priconfig.xml.intermediate
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\unfiltered.layout.resfiles
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\filtered.layout.resfiles
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\filtered.layout.resfiles.intermediate
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\excluded.layout.resfiles
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\excluded.layout.resfiles.intermediate
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\resources.resfiles
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\resources.resfiles.intermediate
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\pri.resfiles
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\pri.resfiles.intermediate
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\qualifiers.txt
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\qualifiers.txt.intermediate
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\resources.en-us.resfiles
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\resources.en-us.resfiles.intermediate
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\ProjectArchitectures.txt
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758516200000000.json
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\App.xbf
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\ListaCitas.xbf
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\MainPage.xbf
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\MainPageConMenu.xbf
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Mapa.xbf
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\VistaCita.xbf
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Solarizr.xr.xml
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Solarizr.exe
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Solarizr.pdb
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\resources.pri
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\AppxManifest.xml
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Core\AppxManifest.xml
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Core\Solarizr.exe
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Solarizr.build.appxrecipe
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\GMapsUWP.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Newtonsoft.Json.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csprojAssemblyReference.cache
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\App.g.i.cs
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\App.g.cs
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.g.i.cs
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.g.cs
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MainPage.g.i.cs
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MainPage.g.cs
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.g.i.cs
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.g.cs
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Mapa.g.i.cs
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Mapa.g.cs
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\VistaCita.g.i.cs
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\VistaCita.g.cs
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\App.xaml
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xaml
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MainPage.xaml
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.xaml
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Mapa.xaml
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\VistaCita.xaml
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\App.xbf
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xbf
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MainPage.xbf
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.xbf
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Mapa.xbf
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\VistaCita.xbf
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\XamlSaveStateFile.xml
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csproj.CopyComplete
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Solarizr.exe
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Solarizr.pdb
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\ResourceHandlingTask.state
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\priconfig.xml
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\priconfig.xml.intermediate
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\unfiltered.layout.resfiles
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\filtered.layout.resfiles
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\filtered.layout.resfiles.intermediate
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\excluded.layout.resfiles
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\excluded.layout.resfiles.intermediate
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\resources.resfiles
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\resources.resfiles.intermediate
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\pri.resfiles
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\pri.resfiles.intermediate
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\qualifiers.txt
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\qualifiers.txt.intermediate
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\ProjectArchitectures.txt
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758480200000000.json
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Camara.xbf
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Camara.g.i.cs
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Camara.g.cs
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Camara.xaml
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Camara.xbf
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\images\foto_camara.png
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Microsoft.CSharp.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Core.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Numerics.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Web.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Windows.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Xml.Linq.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Xml.Serialization.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Xml.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Microsoft.VisualBasic.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Collections.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Tools.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Tracing.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Globalization.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Globalization.Calendars.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.IO.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Extensions.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Primitives.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Resources.ResourceManager.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Handles.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.InteropServices.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Text.Encoding.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Timer.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Debug.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.IO.FileSystem.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.Primitives.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.Sockets.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Extensions.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\clrjit.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\clrcompression.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Private.Uri.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.AppContext.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Buffers.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Collections.Concurrent.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Collections.Immutable.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Collections.NonGeneric.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Collections.Specialized.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.Annotations.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.Primitives.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Data.Common.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Contracts.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Dynamic.Runtime.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Globalization.Extensions.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.IO.Compression.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.IO.IsolatedStorage.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Linq.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Linq.Expressions.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Linq.Parallel.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Linq.Queryable.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.Http.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.Http.Rtc.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.NameResolution.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.NetworkInformation.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.Requests.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.WebSockets.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Net.WebSockets.Client.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ObjectModel.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Private.DataContractSerialization.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Private.ServiceModel.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Context.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Emit.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Metadata.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Numerics.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Security.Claims.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Security.Principal.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Duplex.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Http.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Primitives.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Security.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Text.RegularExpressions.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Threading.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Overlapped.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Xml.ReaderWriter.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Xml.XDocument.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Xml.XmlDocument.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.Xml.XmlSerializer.dll
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.Primitives.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.TypeConverter.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Serialization.Formatters.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csproj.GenerateResource.Cache
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\resources.en-us.resfiles
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\resources.en-us.resfiles.intermediate
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Galeria.xbf
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Galeria.g.i.cs
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Galeria.g.cs
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Galeria.xaml
+E:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Galeria.xbf
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\images\foto_camara.png
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Camara.xbf
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\Galeria.xbf
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Duplex.dll
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Camara.g.i.cs
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Camara.g.cs
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Galeria.g.i.cs
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Galeria.g.cs
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Camara.xaml
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Galeria.xaml
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Camara.xbf
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\Galeria.xbf
+F:\drive\DAM\Segundo\GitHub\Desarrollo-de-Interfaces\proyectos\Solarizr\Solarizr\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758480200000000.json
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\images\foto_camara.png
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\App.xbf
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\Camara.xbf
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\Galeria.xbf
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\ListaCitas.xbf
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\MainPage.xbf
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\MainPageConMenu.xbf
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\Mapa.xbf
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\VistaCita.xbf
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\Solarizr.xr.xml
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\Solarizr.exe
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\Solarizr.pdb
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\resources.pri
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\AppxManifest.xml
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\Core\Solarizr.exe
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\Solarizr.build.appxrecipe
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\GMapsUWP.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Core.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Net.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Numerics.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Windows.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Xml.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Collections.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Globalization.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.IO.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Console.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\clrjit.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\clrcompression.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.AppContext.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Buffers.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.Primitives.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Data.Common.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Linq.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Net.Http.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Threading.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csprojAssemblyReference.cache
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\App.g.i.cs
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\App.g.cs
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Camara.g.i.cs
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Camara.g.cs
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Galeria.g.i.cs
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Galeria.g.cs
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.g.i.cs
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.g.cs
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\MainPage.g.cs
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.g.i.cs
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.g.cs
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Mapa.g.i.cs
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Mapa.g.cs
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\VistaCita.g.i.cs
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\VistaCita.g.cs
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\App.xaml
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Camara.xaml
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Galeria.xaml
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xaml
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\MainPage.xaml
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.xaml
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Mapa.xaml
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\VistaCita.xaml
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\App.xbf
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Camara.xbf
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Galeria.xbf
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\ListaCitas.xbf
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\MainPage.xbf
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\MainPageConMenu.xbf
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Mapa.xbf
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\VistaCita.xbf
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csproj.CoreCompileInputs.cache
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csproj.CopyComplete
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Solarizr.exe
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Solarizr.pdb
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Console.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.Primitives.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ComponentModel.TypeConverter.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Serialization.Formatters.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\Solarizr.csproj.GenerateResource.Cache
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\priconfig.xml
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\resources.resfiles
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\pri.resfiles
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\qualifiers.txt
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\resources.en-us.resfiles
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\resources.en-us.resfiles.intermediate
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758480200000000.json
+C:\Users\mespigares\Desktop\Solarizr\Solarizr\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758516200000000.json

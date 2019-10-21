@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="Solarizr.MainPageConMenu"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Solarizr"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <!-- Aquí estará el menú de navegación y un frame donde se cargarán las paginas de los detalles de la cita (pagina principal de la cita, pagina de imagenes, mapa, etc) -->
+    <RelativePanel>
+        
+        
+
+        <!-- Este grid es el menu de navegación. Tiene dos columnas aunque es un poco innecesario, solo está por si hay que poner algo a la derecha -->
+        <Grid x:ConnectionId='2' Background="#1c2a5c" Height="auto" Name="MenuNavegacion" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" >
+            <AppBarButton x:ConnectionId='4' Name="btnBack" Foreground="White" Label="Atrás" VerticalAlignment="Center" Icon="Back"                     ></AppBarButton>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <TextBlock x:ConnectionId='5' Name="txtBlox" Text="Identificado como Señor X" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Right" FontSize="20"/>
+                <AppBarButton x:ConnectionId='6' HorizontalAlignment="Right" Name="btnSignOut" Foreground="White" Label="Cerrar Sesión" VerticalAlignment="Center" Icon="Cancel"                      ></AppBarButton>
+            </StackPanel>
+        </Grid>
+
+        <!-- Barra separadora del menu y el contenido del frame -->
+        <Border BorderBrush="White" BorderThickness="2" RelativePanel.AlignBottomWith="MenuNavegacion"  RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True"></Border>
+
+        <!-- Frame: Este es el frame al que hay que hacerle navigate() en el código behind para navegar por las paginas de cada cita -->
+        <Frame x:ConnectionId='3' Name="framePagina" RelativePanel.AlignBottomWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" RelativePanel.Below="MenuNavegacion">
+            
+        </Frame>
+
+    </RelativePanel>
+</Page>
+

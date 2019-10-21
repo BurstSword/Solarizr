@@ -1,0 +1,40 @@
+﻿<Page
+    x:Class="Solarizr.Galeria"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Solarizr"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <RelativePanel Background="#4E5E9F">
+        <ScrollViewer RelativePanel.AlignBottomWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignTopWithPanel="True">
+            <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+                
+            <Button x:ConnectionId='2'                     HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Image Source="../Assets/plus.png" Grid.Column="0" Grid.Row="0" Width="80" Height="80" Margin="25" />
+            </Button>
+            
+            <Image Source="../Assets/foto1.jpg" Grid.Column="1" Grid.Row="0" Stretch="Fill"  Margin="25"/>
+            <Image Source="../Assets/foto2.jpg" Grid.Column="2" Grid.Row="0" Stretch="Fill" Margin="25"/>
+            <Image Source="../Assets/foto3.jpg" Grid.Column="3" Grid.Row="0" Stretch="Fill" Margin="25"/>
+            <Image Source="../Assets/foto4.jpg" Grid.Column="4" Grid.Row="0" Stretch="Fill" Margin="25"/>
+        </Grid>
+         </ScrollViewer>
+
+    </RelativePanel>
+</Page>
+
