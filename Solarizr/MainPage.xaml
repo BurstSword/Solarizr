@@ -20,7 +20,11 @@
         <!--<Image Source="images/solarizr_logo.png" Name="si" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignTopWithPanel="True" Height="200" Margin="0,80,0,0" RelativePanel.AlignRightWithPanel="True"></Image>-->
         <!--<Border  Margin="300,100" CornerRadius="5" Background="White" RelativePanel.AlignBottomWithPanel="True" RelativePanel.AlignTopWith="gr01" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True"/>-->
 
+<<<<<<< Updated upstream
         <StackPanel Name="stk01" Margin="0,40,0,0" RelativePanel.AlignBottomWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" RelativePanel.Below="tbTitleLeft" >
+=======
+        <StackPanel Name="gr01" Margin="0,40,0,0" RelativePanel.AlignBottomWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" RelativePanel.Below="tbTitleLeft" >
+>>>>>>> Stashed changes
 
 
 

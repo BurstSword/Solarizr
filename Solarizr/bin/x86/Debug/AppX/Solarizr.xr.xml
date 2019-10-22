@@ -61,6 +61,7 @@
       <RootProperty Name="Orientation" />
       <RootProperty Name="Children" />
       <RootProperty Name="Name" />
+<<<<<<< Updated upstream
       <RootProperty Name="Margin" />
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="CornerRadius" />
@@ -74,6 +75,21 @@
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Name" />
       <RootProperty Name="Margin" />
+=======
+      <RootProperty Name="Margin" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="CornerRadius" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="MinWidth" />
+      <RootProperty Name="MaxWidth" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Content" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Name" />
+      <RootProperty Name="Margin" />
+>>>>>>> Stashed changes
       <RootProperty Name="Background" />
       <RootProperty Name="Foreground" />
       <RootProperty Name="Width" />
@@ -93,7 +109,10 @@
       <RootProperty Name="Content" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+<<<<<<< Updated upstream
       <RootProperty Name="HorizontalAlignment" />
+=======
+>>>>>>> Stashed changes
       <RootProperty Name="ColumnDefinitions" />
       <RootProperty Name="RowDefinitions" />
       <RootProperty Name="Children" />

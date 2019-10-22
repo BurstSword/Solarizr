@@ -26,11 +26,15 @@ namespace Solarizr
         {
             this.InitializeComponent();
         }
+<<<<<<< Updated upstream
       /// <summary>
       /// Evento asociado al click del botón de Añadir
       /// </summary>
       /// <param name="sender"></param>
       /// <param name="e"></param>
+=======
+
+>>>>>>> Stashed changes
         private void abrirCamara(object sender, RoutedEventArgs e)
         {
             this.Frame.Navigate(typeof(Camara), null);

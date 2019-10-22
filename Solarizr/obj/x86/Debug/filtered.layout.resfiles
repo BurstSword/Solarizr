@@ -1,4 +1,7 @@
+<<<<<<< Updated upstream
 WinMetadata\Windows.winmd
+=======
+>>>>>>> Stashed changes
 Assets\foto1.jpg
 Assets\foto2.jpg
 Assets\foto3.jpg
@@ -46,3 +49,4 @@ images\solarizr_logo.png
 images\sun.png
 images\sun.svg
 Properties\Default.rd.xml
+WinMetadata\Windows.winmd

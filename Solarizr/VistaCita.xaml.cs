@@ -21,20 +21,28 @@ namespace Solarizr
             Map.TileSources.Add(new MapTileSource(new HttpMapTileDataSource(mapuri)));
             GMapsUWP.Map.MapControlHelper.UseGoogleMaps(Map);*/
         }
+<<<<<<< Updated upstream
         /// <summary>
         /// Evento asociado al click del botón Calcular ruta
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
+=======
+
+>>>>>>> Stashed changes
         private void navegarAlMapa(object sender, RoutedEventArgs e)
         {
             Frame.Navigate(typeof(Mapa), null, new DrillInNavigationTransitionInfo());
         }
+<<<<<<< Updated upstream
         /// <summary>
         /// Evento asociado al click del botón con forma de clip
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
+=======
+
+>>>>>>> Stashed changes
         private void AbrirGaleria(object sender, RoutedEventArgs e)
         {
             Frame.Navigate(typeof(Galeria), null);

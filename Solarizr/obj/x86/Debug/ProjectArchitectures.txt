@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 C:\Users\mespigares\Desktop\Solarizr\Solarizr\Solarizr.csproj;x86
+=======
+C:\Users\Ryu\Desktop\Solarizr\Solarizr\Solarizr.csproj;x86
+>>>>>>> Stashed changes

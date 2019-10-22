@@ -26,6 +26,7 @@ namespace Solarizr
         {
             this.InitializeComponent();
             framePagina.Navigate(typeof(ListaCitas), null); //BlankPage1 es la pagina ListaCitas
+<<<<<<< Updated upstream
         }
 
         /// <summary>
@@ -49,6 +50,27 @@ namespace Solarizr
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
+=======
+        }
+
+        /// <summary>
+        /// Evento asociado al click del AppBarButton para volver atrás
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void navegarAtras(object sender, RoutedEventArgs e)
+        {
+            if(framePagina.CanGoBack)
+            {
+                framePagina.GoBack();
+            }
+            
+            
+            //Frame.Navigate(typeof(BlankPage1), null);
+            //framePagina.Content = null;
+        }
+
+>>>>>>> Stashed changes
         private void volverAlLogin(object sender, RoutedEventArgs e)
         {
             Frame.Navigate(typeof(MainPage));

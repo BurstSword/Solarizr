@@ -10,7 +10,11 @@
 
     <RelativePanel Background="#4E5E9F">
         <ScrollViewer RelativePanel.AlignBottomWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignTopWithPanel="True">
+<<<<<<< Updated upstream
             <Grid HorizontalAlignment="Center">
+=======
+            <Grid>
+>>>>>>> Stashed changes
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
